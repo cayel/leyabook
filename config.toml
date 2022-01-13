@@ -1,19 +1,20 @@
 baseurl = "/"
 title = "[leyabook]"
 languageCode = "fr-FR"
+defaultContentLanguage = 'fr'
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "cayel"
-  bio = "cayel's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "leyabook"
+  bio = "L'identité de leyabook n'est pas très claire. Il semblerait qu'il préfère se cacher."
   avatar = "img/avatar.png"
 
 [Params]
-  description = "cayel's Personal blog about everything" # Site description. Used in meta description
-  copyright = "cayel" # Footer copyright holder, otherwise will use site title
+  description = "leyabook - le carnet de bord de mes lectures" # Site description. Used in meta description
+  copyright = "leyabook" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -42,7 +43,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.logo]
   image = "img/logo.png" # Logo image. Path relative to "static"
   title = "[leyabook]" # Logo title, otherwise will use site title
-  subtitle = "Mes lectures" # Logo subtitle
+  subtitle = "Le carnet de bord de mes lectures" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list"] # Control thumbnail visibility
