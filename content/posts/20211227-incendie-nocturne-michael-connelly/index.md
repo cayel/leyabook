@@ -6,6 +6,8 @@ categories:
   - "Policier"
 tags:
   - "Michael Connelly"
+thumbnail: 
+  src: "posts/20211227-incendie-nocturne-michael-connelly/img/incendie-nocturne.jpeg" # Thumbnail image  
 ---
 
 ![img](img/incendie-nocturne.jpeg)

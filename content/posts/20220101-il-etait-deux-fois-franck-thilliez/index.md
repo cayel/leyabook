@@ -6,7 +6,11 @@ categories:
   - "Policier"
 tags:
   - "Franck Thilliez"
+thumbnail:
+  src: "posts/20220101-il-etait-deux-fois-franck-thilliez/img/il-etait-deux-fois.jpg" # Thumbnail image
 ---
+![img](img/il-etait-deux-fois.jpg)
+
 Franck Thilliez est un auteur que j'ai découvert tardivement via Sharko. C'est le deuxième livre que je lis et je peux dire que cela confirme tout le bien que j'ai pu penser lors de ma lecture précédente. Dans "Il était deux fois", on ne retrouve pas les personnages favoris de Franck Thilliez, Sharko ou Hennebelle.
 
 Gabriel Moscato est lieutenant de gendarmerie. Sa fille de 17 ans, Julie a disparu en 2008. Depuis, son père n'a de cesse de la rechercher en explorant toutes les pistes possibles. Jusqu'à ce jour ou il prend une chambre à l'hôtel de la falaise et se réveille le lendemain matin, 12 ans plus tard ! Sa fille est toujours portée disparue et Gabriel va tenter de comprendre ce qu'il s'est passé durant ces 12 années.

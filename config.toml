@@ -45,7 +45,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   subtitle = "Mes lectures" # Logo subtitle
 
 [Params.thumbnail]
-  visibility = ["list", "post"] # Control thumbnail visibility
+  visibility = ["list"] # Control thumbnail visibility
 
 [Params.sidebar]
   home = "right" # Configure layout for home page

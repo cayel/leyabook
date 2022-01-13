@@ -6,6 +6,8 @@ categories:
   - "Roman"
 tags:
   - "Haruki Murakami"
+thumbnail: 
+  src: "posts/20211215-1q84-haruki-murakami/img/1q84.png" # Thumbnail image 
 ---
 ![img](img/1q84.png)
 
